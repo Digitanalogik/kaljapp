@@ -1,8 +1,8 @@
 # Kaljapp
 ### React Native application by Tatu Soininen
 
-##Download
-The official release is available at the Google Play store.
+## Download
+The official release is available to download from the Google Play store.
 [https://play.google.com/store/apps/details?id=com.kaljapp&hl=fi](https://play.google.com/store/apps/details?id=com.kaljapp&hl=fi)
 
 ### Definition
